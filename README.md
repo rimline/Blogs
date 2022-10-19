@@ -10,6 +10,7 @@
 4. [React源码细读-UpdateQueue机制与Lane优先级模型](https://zhuanlan.zhihu.com/p/386897467)
 5. [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 6. [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+7. [What is React Concurrent Mode?](https://medium.com/swlh/what-is-react-concurrent-mode-46989b5f15da)
 
 
 # 前端性能优化
