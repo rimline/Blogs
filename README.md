@@ -26,8 +26,4 @@
 2. http://yslow.org/
 3. [Async Fragments: Rediscovering Progressive HTML Rendering with Marko](https://tech.ebayinc.com/engineering/async-fragments-rediscovering-progressive-html-rendering-with-marko/)
 4. [Progressive rendering via multiple flushes](https://www.phpied.com/progressive-rendering-via-multiple-flushes/)
-5. [Psychology of performance](phpied.com/psychology-of-performance/)
-6. [Rendering: repaint, reflow/relayout, restyle](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
-7. [DOM access optimization](https://www.phpied.com/dom-access-optimization/)
-8. [JavaScript loading strategies](https://www.phpied.com/javascript-loading-strategies/)
-9. [Reducing the payload: compression, minification, 204s](phpied.com/reducing-tpayload/)
+5. [Performance Advent Calendar 2009](https://www.phpied.com/performance-advent-calendar-2009/)
