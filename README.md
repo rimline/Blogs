@@ -12,7 +12,7 @@
 6. [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 7. [What is React Concurrent Mode?](https://medium.com/swlh/what-is-react-concurrent-mode-46989b5f15da)
 8. [What’s Server Side Rendering and do I need it?](https://medium.com/@baphemot/whats-server-side-rendering-and-do-i-need-it-cb42dc059b38)
-9. [Async Fragments: Rediscovering Progressive HTML Rendering with Marko](https://tech.ebayinc.com/engineering/async-fragments-rediscovering-progressive-html-rendering-with-marko/)
+9. 
 
 # CSS
 1. [你未必知道的49个CSS知识点](https://juejin.cn/post/6844903902123393032)
@@ -22,3 +22,6 @@
 # 前端性能优化
 1. https://segmentfault.com/a/1190000022205291
 2. http://yslow.org/
+3. [Async Fragments: Rediscovering Progressive HTML Rendering with Marko](https://tech.ebayinc.com/engineering/async-fragments-rediscovering-progressive-html-rendering-with-marko/)
+4. [Progressive rendering via multiple flushes](https://www.phpied.com/progressive-rendering-via-multiple-flushes/)
+5. [Psychology of performance](phpied.com/psychology-of-performance/)
