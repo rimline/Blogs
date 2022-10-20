@@ -1,4 +1,4 @@
-# V8
+# Javascript
 1. [Elements kinds in V8](https://v8.dev/blog/elements-kinds#avoid-reading-beyond-the-length-of-the-array)
 2. [Impact of polymorphism on component-based frameworks like React](https://benediktmeurer.de/2018/03/23/impact-of-polymorphism-on-component-based-frameworks-like-react/)
 
