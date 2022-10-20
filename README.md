@@ -29,5 +29,5 @@
 5. [Psychology of performance](phpied.com/psychology-of-performance/)
 6. [Rendering: repaint, reflow/relayout, restyle](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
 7. [DOM access optimization](https://www.phpied.com/dom-access-optimization/)
-8. [JavaScript loading strategies
-](https://www.phpied.com/javascript-loading-strategies/)
+8. [JavaScript loading strategies](https://www.phpied.com/javascript-loading-strategies/)
+9. [Reducing the payload: compression, minification, 204s](phpied.com/reducing-tpayload/)
