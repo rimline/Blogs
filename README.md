@@ -29,3 +29,4 @@
 5. [Performance Advent Calendar 2009](https://www.phpied.com/performance-advent-calendar-2009/)
 6. [HIGH PERFORMANCE WEB SITES BLOG](https://stevesouders.com/)
 7. [Web Performance Calendar](https://calendar.perfplanet.com/2021/)
+8. [How to read a WebPageTest Waterfall View chart](https://nooshu.com/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/)
