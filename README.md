@@ -28,3 +28,4 @@
 4. [Progressive rendering via multiple flushes](https://www.phpied.com/progressive-rendering-via-multiple-flushes/)
 5. [Performance Advent Calendar 2009](https://www.phpied.com/performance-advent-calendar-2009/)
 6. [HIGH PERFORMANCE WEB SITES BLOG](https://stevesouders.com/)
+7. [Web Performance Calendar](https://calendar.perfplanet.com/2021/)
