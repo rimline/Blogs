@@ -30,3 +30,5 @@
 6. [HIGH PERFORMANCE WEB SITES BLOG](https://stevesouders.com/)
 7. [Web Performance Calendar](https://calendar.perfplanet.com/2021/)
 8. [How to read a WebPageTest Waterfall View chart](https://nooshu.com/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/)
+9. [Links on Performance V](https://pixallus.com/links-on-performance-v/)
+10. 
