@@ -38,3 +38,4 @@
 14. [Web performance(MDN)](https://developer.mozilla.org/en-US/docs/Web/Performance)
 15. [Improving Perceived Performance With the Link Rel=preconnect HTTP Header](https://andydavies.me/blog/2019/03/22/improving-perceived-performance-with-a-link-rel-equals-preconnect-http-header/)
 16. [Resource Hints](https://www.w3.org/TR/resource-hints/#dns-prefetch)
+17. [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/)
