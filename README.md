@@ -36,4 +36,5 @@
 12. [Caching Header Best Practices](https://simonhearne.com/2022/caching-header-best-practices/)
 13. [High Performance Browser Networking](https://hpbn.co/)
 14. [Web performance(MDN)](https://developer.mozilla.org/en-US/docs/Web/Performance)
-15. [Resource Hints](https://www.w3.org/TR/resource-hints/#dns-prefetch)
+15. [Improving Perceived Performance With the Link Rel=preconnect HTTP Header](https://andydavies.me/blog/2019/03/22/improving-perceived-performance-with-a-link-rel-equals-preconnect-http-header/)
+16. [Resource Hints](https://www.w3.org/TR/resource-hints/#dns-prefetch)
