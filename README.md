@@ -35,3 +35,5 @@
 11. [7 Fresh Links on Performance For March 2022](https://css-tricks.com/performance-links-february-2022/)
 12. [Caching Header Best Practices](https://simonhearne.com/2022/caching-header-best-practices/)
 13. [High Performance Browser Networking](https://hpbn.co/)
+14. [Web performance(MDN)](https://developer.mozilla.org/en-US/docs/Web/Performance)
+15. [Resource Hints](https://www.w3.org/TR/resource-hints/#dns-prefetch)
