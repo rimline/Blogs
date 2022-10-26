@@ -39,3 +39,5 @@
 15. [Improving Perceived Performance With the Link Rel=preconnect HTTP Header](https://andydavies.me/blog/2019/03/22/improving-perceived-performance-with-a-link-rel-equals-preconnect-http-header/)
 16. [Resource Hints](https://www.w3.org/TR/resource-hints/#dns-prefetch)
 17. [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/)
+18. [Better HTTP/2 Prioritization for a Faster Web](https://blog.cloudflare.com/better-http-2-prioritization-for-a-faster-web/)
+19. [How browsers work](https://web.dev/howbrowserswork/)
