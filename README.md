@@ -45,6 +45,7 @@
 17. [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/)
 18. [Better HTTP/2 Prioritization for a Faster Web](https://blog.cloudflare.com/better-http-2-prioritization-for-a-faster-web/)
 19. [How browsers work](https://web.dev/howbrowserswork/)
+20. [Make use of long-term caching](https://web.dev/use-long-term-caching/#use-bundle-versioning-and-cache-headers)
 
 # Personal Blog
 1. https://philipwalton.com/
