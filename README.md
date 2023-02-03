@@ -4,6 +4,7 @@
 3. [Extreme JavaScript optimization](https://www.phpied.com/extreme-javascript-optimization/)
 4. [Efficient JavaScript - dev.Opera](https://dev.opera.com/articles/efficient-javascript/?page=3#reflow)
 5. [Efficient JavaScript - Nicholas Zakas's presentation at Velocity conf](http://www.slideshare.net/nzakas/writing-efficient-javascript)
+6. [Understanding Javascript Runtimes (Focused on V8)](https://github.com/Aschen/understand-js-runtimes)
 
 
 # React
