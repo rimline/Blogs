@@ -50,6 +50,7 @@
 19. [How browsers work](https://web.dev/howbrowserswork/)
 20. [Make use of long-term caching](https://web.dev/use-long-term-caching/#use-bundle-versioning-and-cache-headers)
 21. [Fast load times](https://web.dev/fast/#optimize-your-images)
+22. [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366)
 
 # Personal Blog
 1. https://philipwalton.com/
