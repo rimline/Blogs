@@ -46,6 +46,7 @@
 18. [Better HTTP/2 Prioritization for a Faster Web](https://blog.cloudflare.com/better-http-2-prioritization-for-a-faster-web/)
 19. [How browsers work](https://web.dev/howbrowserswork/)
 20. [Make use of long-term caching](https://web.dev/use-long-term-caching/#use-bundle-versioning-and-cache-headers)
+21. [Fast load times](https://web.dev/fast/#optimize-your-images)
 
 # Personal Blog
 1. https://philipwalton.com/
