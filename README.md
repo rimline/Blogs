@@ -20,7 +20,7 @@
 7. [What is React Concurrent Mode?](https://medium.com/swlh/what-is-react-concurrent-mode-46989b5f15da)
 8. [What’s Server Side Rendering and do I need it?](https://medium.com/@baphemot/whats-server-side-rendering-and-do-i-need-it-cb42dc059b38)
 9. [What is React Concurrent Mode?](https://medium.com/swlh/what-is-react-concurrent-mode-46989b5f15da)
-10.[React Work Group](https://github.com/reactwg/react-18/discussions)
+
 
 
 # CSS
