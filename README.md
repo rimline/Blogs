@@ -51,6 +51,8 @@
 20. [Make use of long-term caching](https://web.dev/use-long-term-caching/#use-bundle-versioning-and-cache-headers)
 21. [Fast load times](https://web.dev/fast/#optimize-your-images)
 22. [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366)
+23. [webpack 拆包：关于 splitChunks 的几个重点属性解析](https://segmentfault.com/a/1190000042093955)
+
 
 # Personal Blog
 1. https://philipwalton.com/
