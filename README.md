@@ -53,6 +53,7 @@
 22. [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366)
 23. [Code splitting with React.lazy and Suspense](https://web.dev/code-splitting-suspense/?utm_source=lighthouse&utm_medium=devtools)
 23. [webpack 拆包：关于 splitChunks 的几个重点属性解析](https://segmentfault.com/a/1190000042093955)
+24. [Nginx Server Configs Performacne](https://github.com/h5bp/server-configs-nginx/tree/main/h5bp/web_performance)
 
 
 # Personal Blog
