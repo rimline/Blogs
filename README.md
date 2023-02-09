@@ -63,6 +63,7 @@
 3. https://benediktmeurer.de
 4. https://web.dev/blog/
 5. https://matt.might.net/
+6. https://addyosmani.com/
 
 # Spec
 1. https://html.spec.whatwg.org/
