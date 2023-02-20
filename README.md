@@ -55,6 +55,7 @@
 23. [webpack 拆包：关于 splitChunks 的几个重点属性解析](https://segmentfault.com/a/1190000042093955)
 24. [Nginx Server Configs Performacne](https://github.com/h5bp/server-configs-nginx/tree/main/h5bp/web_performance)
 25. [https://developer.chrome.com/docs/lighthouse/performance/](https://developer.chrome.com/docs/lighthouse/performance/)
+26. [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 
 
 # Personal Blog
