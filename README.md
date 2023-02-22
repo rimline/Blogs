@@ -77,3 +77,7 @@
 1. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 2. [Designing for Performance](https://designingforperformance.com/)
 3. [High Performance Browser Networking](https://hpbn.co/)
+
+# Website
+1. [Patterns](https://www.patterns.dev/posts/)
+2. [The Modern JavaScript Tutorial](https://javascript.info/)
