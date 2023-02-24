@@ -28,7 +28,7 @@
 2. [Flexbugs](https://github.com/philipwalton/flexbugs)
 3. [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 4. [CSS-Tricks](https://css-tricks.com/)
-5.[你未必知道的49个CSS知识点](https://juejin.cn/post/6844903902123393032)
+5. [你未必知道的49个CSS知识点](https://juejin.cn/post/6844903902123393032)
 
 
 # Performance
