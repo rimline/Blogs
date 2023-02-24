@@ -71,6 +71,7 @@
 6. https://addyosmani.com/
 7. https://andydavies.me/
 8. https://jasonformat.com/
+9. http://skilldrick.co.uk/
 
 # Spec
 1. https://html.spec.whatwg.org/
