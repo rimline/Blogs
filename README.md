@@ -24,8 +24,11 @@
 
 
 # CSS
-1. [你未必知道的49个CSS知识点](https://juejin.cn/post/6844903902123393032)
-2. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+1. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+2. [Flexbugs](https://github.com/philipwalton/flexbugs)
+3. [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+4. [CSS-Tricks](https://css-tricks.com/)
+5.[你未必知道的49个CSS知识点](https://juejin.cn/post/6844903902123393032)
 
 
 # Performance
@@ -78,6 +81,7 @@
 1. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 2. [Designing for Performance](https://designingforperformance.com/)
 3. [High Performance Browser Networking](https://hpbn.co/)
+4. [JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/#introduction)
 
 # Website
 1. [Patterns](https://www.patterns.dev/posts/)
