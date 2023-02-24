@@ -76,6 +76,7 @@
 1. https://html.spec.whatwg.org/
 2. https://tc39.es/
 3. https://v8.dev/features
+4. http://dmitrysoshnikov.com/category/ecmascript/
 
 # Book
 1. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
