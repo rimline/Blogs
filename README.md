@@ -72,6 +72,7 @@
 7. https://andydavies.me/
 8. https://jasonformat.com/
 9. http://skilldrick.co.uk/
+10. https://jakearchibald.com/
 
 # Spec
 1. https://html.spec.whatwg.org/
