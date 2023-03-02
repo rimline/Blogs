@@ -4,10 +4,11 @@
 3. [Extreme JavaScript optimization](https://www.phpied.com/extreme-javascript-optimization/)
 4. [Efficient JavaScript - dev.Opera](https://dev.opera.com/articles/efficient-javascript/?page=3#reflow)
 5. [Efficient JavaScript - Nicholas Zakas's presentation at Velocity conf](http://www.slideshare.net/nzakas/writing-efficient-javascript)
-6. [Understanding Javascript Runtimes (Focused on V8)](https://github.com/Aschen/understand-js-runtimes)
-7. [Faster async functions and promises](https://v8.dev/blog/fast-async)
-8. [Blazingly fast parsing, part 1: optimizing the scanner](https://v8.dev/blog/scanner)
-9. [Blazingly fast parsing, part 2: lazy parsing](https://v8.dev/blog/preparser)
+6. [Optimize long tasks](https://web.dev/optimize-long-tasks/)
+7. [Understanding Javascript Runtimes (Focused on V8)](https://github.com/Aschen/understand-js-runtimes)
+8. [Faster async functions and promises](https://v8.dev/blog/fast-async)
+9. [Blazingly fast parsing, part 1: optimizing the scanner](https://v8.dev/blog/scanner)
+10. [Blazingly fast parsing, part 2: lazy parsing](https://v8.dev/blog/preparser)
 
 
 # React
