@@ -38,7 +38,6 @@
 4. [Progressive rendering via multiple flushes](https://www.phpied.com/progressive-rendering-via-multiple-flushes/)
 5. [Flushing the Document Early](https://www.stevesouders.com/blog/2009/05/18/flushing-the-document-early/)
 6. [Performance Advent Calendar 2009](https://www.phpied.com/performance-advent-calendar-2009/)
-7. [HIGH PERFORMANCE WEB SITES BLOG](https://stevesouders.com/)
 8. [Web Performance Calendar](https://calendar.perfplanet.com/2021/)
 9. [How to read a WebPageTest Waterfall View chart](https://nooshu.com/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/)
 10. [Links on Performance V](https://pixallus.com/links-on-performance-v/)
