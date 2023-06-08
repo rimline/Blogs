@@ -63,6 +63,7 @@
 29. [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 30. [Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/#comments-preload-what-is-it-good-for)
 31. [Preload critical assets to improve loading speed](https://web.dev/preload-critical-assets/)
+32. [Lighthouse: Optimize website speed](https://developer.chrome.com/docs/devtools/lighthouse/)
 
 
 # Personal Blog
