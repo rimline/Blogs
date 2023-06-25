@@ -77,6 +77,7 @@
 8. https://jasonformat.com/
 9. http://skilldrick.co.uk/
 10. https://jakearchibald.com/
+11. https://nooshu.com/
 
 # Spec
 1. https://html.spec.whatwg.org/
