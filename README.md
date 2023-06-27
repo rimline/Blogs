@@ -22,6 +22,7 @@
 8. [What’s Server Side Rendering and do I need it?](https://medium.com/@baphemot/whats-server-side-rendering-and-do-i-need-it-cb42dc059b38)
 9. [What is React Concurrent Mode?](https://medium.com/swlh/what-is-react-concurrent-mode-46989b5f15da)
 10. [React Work Group](https://github.com/reactwg/react-18/discussions)
+11. [持久化数据结构简介](https://zthinker.com/archives/persist-datastructure-intro/)
 
 
 # CSS
@@ -64,6 +65,16 @@
 30. [Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/#comments-preload-what-is-it-good-for)
 31. [Preload critical assets to improve loading speed](https://web.dev/preload-critical-assets/)
 32. [Lighthouse: Optimize website speed](https://developer.chrome.com/docs/devtools/lighthouse/)
+
+# 收录
+1. [Use image CDNs to optimize images](https://web.dev/image-cdns/)
+2. [Optimize long tasks](https://web.dev/optimize-long-tasks/?utm_source=devtools)
+3. [Page Lifecycle API](https://developer.chrome.com/blog/page-lifecycle-api/)
+4. [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
+5. [Better JS scheduling with isInputPending()](https://developer.chrome.com/articles/isinputpending/)
+6. [Richer offline experiences with the Periodic Background Sync API](https://developer.chrome.com/articles/periodic-background-sync/)
+7. [Understanding Clojure's Persistent Vectors, pt. 1](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
+8. 
 
 
 # Personal Blog
