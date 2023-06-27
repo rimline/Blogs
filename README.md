@@ -74,7 +74,6 @@
 5. [Better JS scheduling with isInputPending()](https://developer.chrome.com/articles/isinputpending/)
 6. [Richer offline experiences with the Periodic Background Sync API](https://developer.chrome.com/articles/periodic-background-sync/)
 7. [Understanding Clojure's Persistent Vectors, pt. 1](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
-8. 
 
 
 # Personal Blog
