@@ -23,6 +23,7 @@
 9. [What is React Concurrent Mode?](https://medium.com/swlh/what-is-react-concurrent-mode-46989b5f15da)
 10. [React Work Group](https://github.com/reactwg/react-18/discussions)
 11. [持久化数据结构简介](https://zthinker.com/archives/persist-datastructure-intro/)
+12. [yield-and-continuation](https://github.com/WICG/scheduling-apis/blob/main/explainers/yield-and-continuation.md#introduction)
 
 
 # CSS
