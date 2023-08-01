@@ -9,6 +9,7 @@
 8. [Faster async functions and promises](https://v8.dev/blog/fast-async)
 9. [Blazingly fast parsing, part 1: optimizing the scanner](https://v8.dev/blog/scanner)
 10. [Blazingly fast parsing, part 2: lazy parsing](https://v8.dev/blog/preparser)
+11. [GoogleChrome samples](https://github.com/GoogleChrome/samples)
 
 
 # React
